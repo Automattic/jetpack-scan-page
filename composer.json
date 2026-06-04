@@ -9,7 +9,7 @@
 		"automattic/jetpack-assets": "^4.3.40",
 		"automattic/jetpack-autoloader": "^5.0.19-alpha",
 		"automattic/jetpack-composer-plugin": "^4.0.8-alpha",
-		"automattic/jetpack-connection": "^8.5.3",
+		"automattic/jetpack-connection": "^8.5.4-alpha",
 		"automattic/jetpack-status": "^6.1.6",
 		"automattic/jetpack-wp-build-polyfills": "^0.1.12-alpha"
 	},
