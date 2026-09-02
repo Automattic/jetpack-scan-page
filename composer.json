@@ -14,7 +14,7 @@
 		"automattic/jetpack-wp-build-polyfills": "^0.5.2-alpha"
 	},
 	"require-dev": {
-		"automattic/jetpack-changelogger": "^7.0.1",
+		"automattic/jetpack-changelogger": "^7.0.2-alpha",
 		"yoast/phpunit-polyfills": "^4.0.0",
 		"automattic/phpunit-select-config": "^1.0.11"
 	},
