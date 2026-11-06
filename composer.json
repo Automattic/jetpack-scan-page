@@ -65,7 +65,7 @@
 			"link-template": "https://github.com/Automattic/jetpack-scan-page/compare/v${old}...v${new}"
 		},
 		"branch-alias": {
-			"dev-trunk": "0.2.x-dev"
+			"dev-trunk": "0.3.x-dev"
 		}
 	},
 	"config": {
@@ -74,5 +74,6 @@
 			"automattic/jetpack-autoloader": true,
 			"automattic/jetpack-composer-plugin": true
 		}
-	}
+	},
+	"abandoned": true
 }
